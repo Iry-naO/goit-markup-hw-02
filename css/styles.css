@@ -70,6 +70,14 @@ a {
   text-align: center;
 }
 
+.benefits-title {
+  font-size: 36px;
+  color: #2e2f42;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
 .benefits-item-title {
   font-size: 20px;
   color: #2e2f42;
