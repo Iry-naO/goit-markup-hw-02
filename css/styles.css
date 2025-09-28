@@ -27,12 +27,18 @@ a {
 }
 
 .header-menu-link {
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   font-weight: 500;
   color: #2e2f42;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: left;
+}
+
+.header-menu-link:hover,
+.header-menu-link:focus {
+  color: #404bbf;
 }
 
 .header-contacts-link {
