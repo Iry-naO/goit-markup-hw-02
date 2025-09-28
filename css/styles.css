@@ -11,17 +11,18 @@ a {
   text-decoration: none;
 }
 
-.header-logo {
+.logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
   color: #4d5ae5;
   text-transform: uppercase;
   letter-spacing: 0.03em;
-  line-height: 1.2;
+  line-height: 1.16;
+  text-align: left;
 }
 
-.header-logo-studio {
+.logo-studio {
   color: #2e2f42;
 }
 
@@ -49,9 +50,9 @@ a {
 .main-title {
   font-size: 56px;
   color: #ffffff;
-  text-align: center;
   line-height: 1;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 
 .main-button {
@@ -61,4 +62,92 @@ a {
   line-height: 1.5;
   letter-spacing: 0.04em;
   text-align: center;
+}
+
+.benefits-item-title {
+  font-size: 20px;
+  color: #2e2f42;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.benefits-item-text {
+  font-size: 16px;
+  color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.team-section {
+  background-color: #f4f4fd;
+}
+
+.team-title {
+  font-size: 36px;
+  color: #2e2f42;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.team-item {
+  background-color: #ffffff;
+}
+
+.team-item-title {
+  font-size: 20px;
+  color: #2e2f42;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.team-item-text {
+  font-size: 16px;
+  color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.portfolio-title {
+  font-size: 36px;
+  color: #2e2f42;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.portfolio-item-title {
+  font-size: 20px;
+  color: #2e2f42;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.portfolio-item-text {
+  font-size: 16px;
+  color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer-logo-studio {
+  color: #f4f4fd;
+}
+
+.footer-text {
+  font-size: 16px;
+  color: #f4f4fd;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
 }
